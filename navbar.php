@@ -23,7 +23,7 @@
 		<li class="<?php if (isset($active_usuarios)){echo $active_usuarios;}?>"><a href="usuarios.php"><i  class='glyphicon glyphicon-user'></i> Usuarios</a></li>
        </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="federiconbrest@gmail.com"><i class='glyphicon glyphicon-envelope'></i> Soporte</a></li>
+        <li><a href="mailto:federiconbrest@gmail.com"><i class='glyphicon glyphicon-envelope'></i> Soporte</a></li>
 		<li><a href="login.php?logout"><i class='glyphicon glyphicon-off'></i> Salir</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
